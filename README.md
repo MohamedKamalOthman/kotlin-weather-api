@@ -8,17 +8,29 @@ Features
 - Automatically updates weather information every 30 minutes
 - Option to switch between Celsius and Fahrenheit units
 
-Requirements
+# Requirements
 
 - Android Studio 4.0 or higher
 - Kotlin 1.4.0 or higher
 - WeatherApi API key
 
-Getting Started
+# Getting Started
 
 - Clone this repository to your local machine.
 - Obtain an API key from WeatherApi by creating an account.
 - In the gradle.properties file, replace API_KEY with your API key.
 - Build and run the app on an Android emulator or physical device.
 
-Screenshots
+# Video
+
+### Phone
+
+https://github.com/MohamedKamalOthman/kotlin-weather-api/assets/76039756/0d36e294-8a68-4663-b159-1d819fcf9c03
+
+### Smart Watch
+
+
+https://github.com/MohamedKamalOthman/kotlin-weather-api/assets/76039756/e8c74433-fdab-4d9d-82fc-fee632da06d5
+
+
+
