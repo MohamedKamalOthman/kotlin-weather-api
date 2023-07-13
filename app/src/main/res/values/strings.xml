@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">weather</string>
+    <string-array name="city_names">
+        <item>London</item>
+        <item>New York</item>
+        <item>Paris</item>
+        <item>Tokyo</item>
+        <item>Riyadh</item>
+        <item>Jeddah</item>
+        <item>Mecca</item>
+        <item>Dubai</item>
+        <item>Cairo</item>
+        <item>Los Angeles</item>
+        <item>Beijing</item>
+        <item>Moscow</item>
+        <item>Sydney</item>
+        <item>Rio de Janeiro</item>
+        <item>Buenos Aires</item>
+        <item>Mexico City</item>
+        <item>San Francisco</item>
+        <item>Seattle</item>
+        <item>Chicago</item>
+        <item>Miami</item>
+        <item>Amsterdam</item>
+        <item>Rome</item>
+        <item>Munich</item>
+        <item>Zurich</item>
+        <item>Barcelona</item>
+        <item>Madrid</item>
+        <item>Stockholm</item>
+        <item>Copenhagen</item>
+        <item>Berlin</item>
+        <item>Hamburg</item>
+        <item>Oslo</item>
+        <item>Helsinki</item>
+        <item>Istanbul</item>
+        <item>Johannesburg</item>
+        <item>São Paulo</item>
+        <item>Lima</item>
+        <item>Santiago</item>
+        <item>Bogotá</item>
+        <item>Toronto</item>
+        <item>Vancouver</item>
+        <item>Montreal</item>
+        <item>Calgary</item>
+        <item>Edmonton</item>
+        <item>Quebec City</item>
+        <item>Halifax</item>
+        <item>St. John\'s</item>
+        <item>Perth</item>
+        <item>Brisbane</item>
+        <item>Melbourne</item>
+        <item>Sydney</item>
+
+    </string-array>
+</resources>
