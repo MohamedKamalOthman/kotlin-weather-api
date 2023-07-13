@@ -30,7 +30,10 @@ https://github.com/MohamedKamalOthman/kotlin-weather-api/assets/76039756/0d36e29
 ### Smart Watch
 
 
-https://github.com/MohamedKamalOthman/kotlin-weather-api/assets/76039756/e8c74433-fdab-4d9d-82fc-fee632da06d5
+
+
+https://github.com/MohamedKamalOthman/kotlin-weather-api/assets/76039756/0a47c000-223c-49de-a88e-735cafc55e01
+
 
 
 
