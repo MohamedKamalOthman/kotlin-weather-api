@@ -1,4 +1,9 @@
-# kotlin-weather-api
+# Weather App
+<div align="center">
+<img src = "https://github.com/MohamedKamalOthman/kotlin-weather-api/assets/76039756/835730ab-9153-4564-a359-cec36f82c935"/>
+  
+</div>
+
 
 This is a simple Android application that displays the current weather information for a selected city. The app is built using the Kotlin programming language and utilizes the [WeatherApi](https://www.weatherapi.com/) to retrieve weather data.
 Features
