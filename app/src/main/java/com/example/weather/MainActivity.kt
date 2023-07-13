@@ -40,7 +40,9 @@ class MainActivity : ComponentActivity() {
         ivCondition = findViewById(R.id.iv_weather)
 
         // request params
-        val apiKey = "538bb2eed61f4b12be6104937231207"
+        // get api key from grade.properties
+        val apiKey = BuildConfig.API_KEY
+        Log.d("API_KEY", apiKey)
         var location = "London"
         val includeAqi = "no"
         val forecastDays = 14
